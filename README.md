@@ -5,5 +5,5 @@
 <ul>
 <li> Selenium </li>
 <li> TestNG </li>
-<li> Rest Assure </li>
+<li> Rest Assured </li>
 </ul>
